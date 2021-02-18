@@ -31,3 +31,19 @@ DESDEMONA{
 IAGO{
     color: darkgrey;
 }
+table , th, td {
+    color: darkorchid;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px 10px 20px 15px;
+    margin: 10px 15px 20px 15px;
+
+}
+
+th{
+    background-color: blanchedalmond;
+}
+tr:nth-child(even){
+    background-color: cornsilk;
+}
