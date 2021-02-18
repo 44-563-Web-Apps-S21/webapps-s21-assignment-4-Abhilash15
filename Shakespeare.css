@@ -1,0 +1,33 @@
+.speech{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+color: black;
+}
+.stage-direction{
+    font-family: cursive;
+    font-size: 20px;
+    background-color: burlywood;
+color: black;
+}
+.stage-direction:hover{
+    color: cornsilk;
+    background-color: darkgreen;
+}
+.name{
+    font-family: monospace;
+    font-size: 22px;
+color: black;
+}
+
+.CASSIO{
+color: blue;
+}
+.OTHELLO{
+    color: brown;
+}
+DESDEMONA{
+    color: cyan;
+}
+IAGO{
+    color: darkgrey;
+}
